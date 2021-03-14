@@ -1,0 +1,17 @@
+<div
+  id="scatterPlotContainer"
+  style="height: 370px; width: 100%; margin-left: auto; margin-right: auto"
+></div>
+
+<div class="csv-file-chooser-section">
+  <input
+    type="file"
+    #fileImportInput
+    name="File Upload"
+    id="csvFileUpload"
+    (change)="fileChangeListener($event)"
+    accept=".csv"
+  />
+
+  <label> Parse Headers? </label>
+</div>
