@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+template-trainer-app/package-lock.json
+template-trainer-app/package-lock.json
+template-trainer-app/yarn.lock
+template-trainer-app/package-lock.json
+template-trainer-app/yarn.lock
+template-trainer-app/package-lock.json
+template-trainer-app/package-lock.json
+template-trainer-app/yarn.lock
+template-trainer-app/yarn.lock
+*.lock
+template-trainer-app/package-lock.json
